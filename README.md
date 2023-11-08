@@ -11,10 +11,6 @@ Welcome to my personal portfolio! This repository serves as a showcase of my wor
 - [Education](#education)
 - [Contact](#contact)
 
-## About Me
-
-Introduce yourself in a few sentences. Talk about your background, your interests, and what drives you in your career or personal pursuits.
-
 ## Projects
 
 Highlight some of your key projects. You can include a brief description, links to the project's repository or live demo, and any relevant technologies used. Provide images or screenshots to make your work visually appealing.
